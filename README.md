@@ -1,1 +1,2 @@
-# AWS-Deploy-ec2-demo-chat-node.js
+# codedeploy-to-ec2-nodejs
+Deploy the Nodejs application to EC2 Instance using CodeDeploy
